@@ -1,0 +1,13 @@
+@charset "UTF-8";
+
+body{
+    background: #000;
+    h1 {
+        font-weight: normal;
+        &:hover {
+            opacity: 0.6;
+        }
+    }
+}
+
+

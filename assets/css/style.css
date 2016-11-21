@@ -1,0 +1,9 @@
+body {
+  background: #000;
+}
+body h1 {
+  font-weight: normal;
+}
+body h1:hover {
+  opacity: 0.6;
+}
