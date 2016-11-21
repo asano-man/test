@@ -1,0 +1,11 @@
+/* line 3, D:/_work/gitHubTest/assets/sass/style.scss */
+body {
+  background: #fff; }
+  /* line 5, D:/_work/gitHubTest/assets/sass/style.scss */
+  body h1 {
+    font-weight: normal; }
+    /* line 7, D:/_work/gitHubTest/assets/sass/style.scss */
+    body h1:hover {
+      opacity: 0.6; }
+
+/*# sourceMappingURL=style.css.map */

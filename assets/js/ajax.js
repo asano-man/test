@@ -292,7 +292,7 @@ Anime.prototype = {
 			case 11:
 			case 12:
 				self.seasonVal.filter(function(){
-					return$(this).val() == 4;
+					return $(this).val() == 4;
 				}).prop('selected', true);
 			break;
 		}
